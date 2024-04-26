@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebViewExample</string>
+    <string name="https">https://</string>
+</resources>
